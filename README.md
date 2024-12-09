@@ -36,14 +36,13 @@ Este módulo es esencial para registrar y gestionar la información relacionada 
 * Subir Respuesta: Permite cargar el resultado del análisis realizado al vehículo, indicando si:
 * Cuenta con un reporte de robo.
 * Ha sido recuperado.
-* No cuenta con reporte alguno.
+* No cuenta con reporte alguno.<br>
 Este módulo es clave para garantizar que los datos sean precisos y confiables, y sirve como insumo para otros procesos.
 <h3>7. Módulo de Generación de Constancias Vehiculares</h3>
 Este módulo interactúa directamente con el módulo de gestión de citas y el de respuesta sobre el estado del vehículo:
 
 * Generación de Constancias: Si la información del propietario y el vehículo es correcta y no existe impedimento legal, se emite una constancia vehicular oficial.
 * Rechazo de Información: En caso de que los datos no sean válidos o el vehículo presente algún inconveniente (como reporte de robo), el sistema genera una respuesta formal que indica el motivo del rechazo.
-
 <h2>Beneficios del Sistema</h2>
 * Eficiencia en la atención ciudadana: Facilita el proceso de programación y gestión de citas, reduciendo tiempos de espera y mejorando la experiencia del usuario.
 * Control regional: Permite adaptar la atención a las necesidades específicas de cada región.
