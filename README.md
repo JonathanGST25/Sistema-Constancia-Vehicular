@@ -44,9 +44,9 @@ Este módulo interactúa directamente con el módulo de gestión de citas y el d
 * Generación de Constancias: Si la información del propietario y el vehículo es correcta y no existe impedimento legal, se emite una constancia vehicular oficial.
 * Rechazo de Información: En caso de que los datos no sean válidos o el vehículo presente algún inconveniente (como reporte de robo), el sistema genera una respuesta formal que indica el motivo del rechazo.
 <h2>Beneficios del Sistema</h2>
-* Eficiencia en la atención ciudadana: Facilita el proceso de programación y gestión de citas, reduciendo tiempos de espera y mejorando la experiencia del usuario.
-* Control regional: Permite adaptar la atención a las necesidades específicas de cada región.
-* Verificación de información: Garantiza la validez de los datos vehiculares, proporcionando un respaldo formal en cada trámite.
-* Gestión automatizada: Reduce el riesgo de errores humanos al estandarizar procesos.
-* Transparencia: Proporciona documentación clara y precisa en cada etapa del proceso.<br>
+- Eficiencia en la atención ciudadana: Facilita el proceso de programación y gestión de citas, reduciendo tiempos de espera y mejorando la experiencia del usuario.
+- Control regional: Permite adaptar la atención a las necesidades específicas de cada región.
+- Verificación de información: Garantiza la validez de los datos vehiculares, proporcionando un respaldo formal en cada trámite.
+- Gestión automatizada: Reduce el riesgo de errores humanos al estandarizar procesos.
+- Transparencia: Proporciona documentación clara y precisa en cada etapa del proceso.<br>
 El Sistema Integral de Gestión de Citas y Validación Vehicular es una herramienta robusta, diseñada para optimizar procesos y garantizar un servicio eficiente y confiable.
