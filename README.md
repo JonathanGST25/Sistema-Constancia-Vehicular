@@ -51,7 +51,7 @@ Este módulo interactúa directamente con el módulo de gestión de citas y el d
 * Rechazo de Información: En caso de que los datos no sean válidos o el vehículo presente algún inconveniente (como reporte de robo), el sistema genera una respuesta formal que indica el motivo del rechazo.<br>
 
 <h3>Beneficios del Sistema</h3>
-* Eficiencia en la atención ciudadana: Facilita el proceso de programación y gestión de citas, reduciendo tiempos de espera y mejorando la experiencia del usuario.<br>
+- Eficiencia en la atención ciudadana: Facilita el proceso de programación y gestión de citas, reduciendo tiempos de espera y mejorando la experiencia del usuario.<br>
 - Control regional: Permite adaptar la atención a las necesidades específicas de cada región.<br>
 - Verificación de información: Garantiza la validez de los datos vehiculares, proporcionando un respaldo formal en cada trámite.<br>
 - Gestión automatizada: Reduce el riesgo de errores humanos al estandarizar procesos.<br>
