@@ -13,17 +13,17 @@ Permite definir los días en que se brindará servicio en las oficinas correspon
 
 * Configuración de días hábiles según las políticas regionales.
 * Definición de horarios específicos para días particulares (como jornadas extendidas o reducidas).
-<h3>3. Módulo para Inhabilitar Días de Atención</h3>
+<h3>3. Módulo para Inhabilitar Días de Atención</h3><br>
 Este módulo permite registrar días en los que no habrá atención, como días festivos, mantenimiento de sistemas, o eventos especiales.
 
-Bloqueo temporal o permanente de días específicos.
-Notificación automática a los ciudadanos afectados para reprogramar sus citas.
-4. Módulo de Registro de Citas
+* Bloqueo temporal o permanente de días específicos.
+* Notificación automática a los ciudadanos afectados para reprogramar sus citas.
+<h3>4. Módulo de Registro de Citas</h3>
 Facilita a los ciudadanos el proceso de agendar citas para servicios específicos.
 
-Registro de datos personales del ciudadano y detalles del trámite a realizar.
-Selección de la fecha y hora de atención según la disponibilidad configurada.
-Generación de un comprobante de cita que el ciudadano puede descargar o recibir por correo.
+* Registro de datos personales del ciudadano y detalles del trámite a realizar.
+* Selección de la fecha y hora de atención según la disponibilidad configurada.
+* Generación de un comprobante de cita que el ciudadano puede descargar o recibir por correo.
 5. Módulo de Gestión de Citas
 Este módulo permite a los operadores verificar y gestionar las citas agendadas.
 
