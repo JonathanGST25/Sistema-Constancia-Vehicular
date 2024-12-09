@@ -52,8 +52,8 @@ Este módulo interactúa directamente con el módulo de gestión de citas y el d
 
 <h3>Beneficios del Sistema</h3>
 * Eficiencia en la atención ciudadana: Facilita el proceso de programación y gestión de citas, reduciendo tiempos de espera y mejorando la experiencia del usuario.<br>
-- Control regional: Permite adaptar la atención a las necesidades específicas de cada región.
-- Verificación de información: Garantiza la validez de los datos vehiculares, proporcionando un respaldo formal en cada trámite.
-- Gestión automatizada: Reduce el riesgo de errores humanos al estandarizar procesos.
+- Control regional: Permite adaptar la atención a las necesidades específicas de cada región.<br>
+- Verificación de información: Garantiza la validez de los datos vehiculares, proporcionando un respaldo formal en cada trámite.<br>
+- Gestión automatizada: Reduce el riesgo de errores humanos al estandarizar procesos.<br>
 - Transparencia: Proporciona documentación clara y precisa en cada etapa del proceso.<br>
 El Sistema Integral de Gestión de Citas y Validación Vehicular es una herramienta robusta, diseñada para optimizar procesos y garantizar un servicio eficiente y confiable.
