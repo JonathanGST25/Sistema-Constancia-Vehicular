@@ -1,5 +1,11 @@
 <h1>Sistema Integral de Gestión de Citas y Validación Vehicular</h1><br>
 El Sistema Integral de Gestión de Citas y Validación Vehicular es una solución diseñada para agilizar la organización de citas ciudadanas y gestionar la verificación de información vehicular. Este sistema ofrece módulos específicos que permiten a las instituciones públicas o privadas optimizar sus servicios de atención al ciudadano y garantizar la validez de los datos registrados.
+
+<h1>Autor</h1><br>
+Jonathan Gaudencio Salvador Tolentino<br>
+<h1>Licenciatura</h1>
+Ingeniero en Sistemas Computacionales<br>
+
 <br>
 <h1>Módulos del Sistema</h1><br>
 <h3>1. Módulo de Configuración por Región</h3>
@@ -43,6 +49,7 @@ Este módulo interactúa directamente con el módulo de gestión de citas y el d
 
 * Generación de Constancias: Si la información del propietario y el vehículo es correcta y no existe impedimento legal, se emite una constancia vehicular oficial.
 * Rechazo de Información: En caso de que los datos no sean válidos o el vehículo presente algún inconveniente (como reporte de robo), el sistema genera una respuesta formal que indica el motivo del rechazo.<br>
+
 <h3>Beneficios del Sistema</h3>
 - Eficiencia en la atención ciudadana: Facilita el proceso de programación y gestión de citas, reduciendo tiempos de espera y mejorando la experiencia del usuario.
 - Control regional: Permite adaptar la atención a las necesidades específicas de cada región.
