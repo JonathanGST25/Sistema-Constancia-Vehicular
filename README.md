@@ -10,9 +10,10 @@ Este módulo permite ajustar los horarios y parámetros de atención según las 
 * Citas por Tiempo: Ajuste de la capacidad máxima de citas disponibles según la duración establecida para cada servicio.
 <h3>2. Módulo para Habilitar Días de Atención</h3><br>
 Permite definir los días en que se brindará servicio en las oficinas correspondientes. Este módulo incluye:
+
 * Configuración de días hábiles según las políticas regionales.
 * Definición de horarios específicos para días particulares (como jornadas extendidas o reducidas).
-3. Módulo para Inhabilitar Días de Atención
+<h3>3. Módulo para Inhabilitar Días de Atención</h3>
 Este módulo permite registrar días en los que no habrá atención, como días festivos, mantenimiento de sistemas, o eventos especiales.
 
 Bloqueo temporal o permanente de días específicos.
